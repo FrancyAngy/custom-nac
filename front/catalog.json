@@ -37,8 +37,7 @@
 				"title": "Online test",
 				"description": "Discord moflex link",
 				"mediaUrls": {
-					"en": "https://cdn.discordapp.com/attachments/885556340599164929/886221030899716096/shawn_le_mouton.moflex",
-					"fr": "https://cdn.discordapp.com/attachments/885556340599164929/886221030899716096/shawn_le_mouton.moflex"
+					"en": "https://cdn.discordapp.com/attachments/885556340599164929/886221030899716096/shawn_le_mouton.moflex"
 				},
 				"viewCount": 0,
 				"imageUrls": {
@@ -74,11 +73,11 @@
 				"type": "episode",
 				"number": 1,
 				"ageRate": 0,
-				"title": "Title go here",
-				"description": "Description go here",
+				"title": "Peepiii",
+				"description": "peepii",
 				"mediaUrls": {
-					"en": "https://place_your_video_link_here.com/video_file.moflex",
-					"fr": "https://place_your_video_link_here.com/video_file.moflex"
+					"en": "https://nac.parallex.xyz/episodes/test/1.moflex",
+					"it": "https://nac.parallex.xyz/episodes/test/1.moflex"
 				},
 				"viewCount": 111,
 				"imageUrls": {
